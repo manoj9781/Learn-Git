@@ -4,3 +4,14 @@ Phone
 TouchScreen
 
 ScratchLess- Gorrilla Glass
+
+ /*************GIT**************/
+
+ 1- "git init" to start the git repository
+ 2- "ls" show all the files
+ 3- "la -a" show history of the files
+ 4- "git status" Status of your code 
+ 5- "git add filename" Add single file or if you want to add all files that have been changed use "git add ."
+ 6-  "git diff" the code what you have changed before commit
+ 7- "git log" log of your code what you changed when 
+ 8- "git checkout id" 
