@@ -15,3 +15,12 @@ ScratchLess- Gorrilla Glass
  6-  "git diff" the code what you have changed before commit
  7- "git log" log of your code what you changed when 
  8- "git checkout id" 
+
+ "git branch" current branch of your code on you are working
+
+ Main branch is called master it has mode stable code.
+ "git checkout -b internet" create a new branch and now you can add file and commit it 
+
+ "git merge internet" merge your file when your code gets complete into the main branch
+ 
+ "git branch -d internet" delete the branch after merging to the main branch.
