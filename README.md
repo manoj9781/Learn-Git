@@ -1,1 +1,1 @@
-This repois for only how to learn the git basic commands
+This repo is for only how to learn the git basic commands
