@@ -1,4 +1,4 @@
 
-This repois for only how to learn the git basic commands
+# This repo is only used to learn git commands 
 
 
