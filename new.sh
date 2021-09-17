@@ -1,8 +1,14 @@
 #!bin/bash
-echo -n "Enter first Number:"
-read num1
-echo -n "Enter Second  Number:"
-read num2
-sum=`expr $num1 + $num2`
-echo "Sum of two value is $sum"
-
+vechile=$1
+case $vechile in
+"car")
+echo "rent of the $vechile is 100 dollar";;
+"van")
+echo "rent of the $vechile is 80 dolla"r;;
+"moterCycle")
+echo "rent of the $vechile is 10 dollar";;
+"truck")
+echo "rent of the $vechile is 159 dollar";;
+*)
+echo "Unknown Vechile";;
+esac
